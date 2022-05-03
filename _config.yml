@@ -1,6 +1,12 @@
 title: Manisha Shedge
 logo: /assets/img/manisha.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/manisha-shedge-a5563b172/">LinkedIn</a> |
+  <a href="https://github.com/manisha0399">GitHub</a>
+  
+  </p>
+
+
+
 theme: jekyll-theme-minimal
